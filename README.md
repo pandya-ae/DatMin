@@ -1,0 +1,2 @@
+# DatMin
+ Data Mining course
